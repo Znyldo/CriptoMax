@@ -1,0 +1,13 @@
+C:\Users\uziel.junior\Desktop\Criações\CShark\CriptoMax\CriptoMax\bin\Debug\netcoreapp3.1\CriptoMax.exe
+C:\Users\uziel.junior\Desktop\Criações\CShark\CriptoMax\CriptoMax\bin\Debug\netcoreapp3.1\CriptoMax.deps.json
+C:\Users\uziel.junior\Desktop\Criações\CShark\CriptoMax\CriptoMax\bin\Debug\netcoreapp3.1\CriptoMax.runtimeconfig.json
+C:\Users\uziel.junior\Desktop\Criações\CShark\CriptoMax\CriptoMax\bin\Debug\netcoreapp3.1\CriptoMax.runtimeconfig.dev.json
+C:\Users\uziel.junior\Desktop\Criações\CShark\CriptoMax\CriptoMax\bin\Debug\netcoreapp3.1\CriptoMax.dll
+C:\Users\uziel.junior\Desktop\Criações\CShark\CriptoMax\CriptoMax\bin\Debug\netcoreapp3.1\CriptoMax.pdb
+C:\Users\uziel.junior\Desktop\Criações\CShark\CriptoMax\CriptoMax\obj\Debug\netcoreapp3.1\CriptoMax.csprojAssemblyReference.cache
+C:\Users\uziel.junior\Desktop\Criações\CShark\CriptoMax\CriptoMax\obj\Debug\netcoreapp3.1\CriptoMax.AssemblyInfoInputs.cache
+C:\Users\uziel.junior\Desktop\Criações\CShark\CriptoMax\CriptoMax\obj\Debug\netcoreapp3.1\CriptoMax.AssemblyInfo.cs
+C:\Users\uziel.junior\Desktop\Criações\CShark\CriptoMax\CriptoMax\obj\Debug\netcoreapp3.1\CriptoMax.csproj.CoreCompileInputs.cache
+C:\Users\uziel.junior\Desktop\Criações\CShark\CriptoMax\CriptoMax\obj\Debug\netcoreapp3.1\CriptoMax.dll
+C:\Users\uziel.junior\Desktop\Criações\CShark\CriptoMax\CriptoMax\obj\Debug\netcoreapp3.1\CriptoMax.pdb
+C:\Users\uziel.junior\Desktop\Criações\CShark\CriptoMax\CriptoMax\obj\Debug\netcoreapp3.1\CriptoMax.genruntimeconfig.cache
