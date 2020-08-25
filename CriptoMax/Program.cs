@@ -6,21 +6,12 @@ namespace CriptoMax
     {
         static void Main(string[] args)
         {
-            string varHuman = "Northon";
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("jegue" + " " + varHuman);
-            int varInt;
-            string varTexto = Console.ReadLine();
-            if (int.TryParse(varTexto, out varInt))
-            {
-                Console.WriteLine("Converteu inteiro! TOMA!");
-            }
-            else
-            {
-                Console.WriteLine("Não coverteu! Se fuDEU!");
-            }
-            Console.WriteLine(varTexto);
+            int varLado;
+            varLado = int.Parse(Console.ReadLine());
+            Quadrado Square = new Quadrado(varLado);
+            Console.WriteLine("Quadrado de area = "+ Square.Area());
+            Console.WriteLine();
         }
-
+        
     }
 }

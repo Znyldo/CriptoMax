@@ -6,11 +6,16 @@ namespace CriptoMax
 {
     class Quadrado
     {
-        int lado;
+        public int lado;
 
         public Quadrado(int lado)
         {
             this.lado = lado;
+        }
+
+        public int Area()
+        {
+            return this.lado * this.lado;
         }
     }
 }
